@@ -1,5 +1,8 @@
-report.pdf : report.tex output1.png output2.png output3.png articles.txt
+report.pdf : report.tex output1.png output2.png output3.png articles.txt create_filestructure.py
 	latexmk -pdf 
+
+main.py: create_filestructure.py
+	python3 create_filestructure.py
 
 output1.png : plots.py
 	python3 plots.py

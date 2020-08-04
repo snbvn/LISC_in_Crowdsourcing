@@ -1,2 +1,2 @@
-'crowdsourcing','crowdsrouced','Citizen science'
-'user interface','UI','quality', 'data quality','information system'
+crowdsourcing,crowdsrouced,Citizen science,crowedsourced data, data crowdsourcing
+user interface,UI,quality, data quality,information system
