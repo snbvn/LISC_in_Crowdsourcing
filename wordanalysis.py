@@ -7,7 +7,7 @@ from lisc.utils.io import save_object
 from lisc.plts.words import plot_wordcloud
 import matplotlib.pyplot as plt
 # Set up some terms
-terms = [['crowdsourcing','crowdsrouced','Citizen science'], ['user interface','UI','quality', 'data quality','information system']]
+terms = [['crowdsourcing','crowdsrouced','Citizen science','crowd'], ['user interface','UI','quality', 'data quality','information system']]
 
 # Initialize Words object and set the terms to search for
 words = Words()
@@ -17,7 +17,8 @@ words.add_terms(terms)
 db = SCDB('lisc_db')
 
 # Collect words data
-words.run_collection(usehistory=True, retmax='100', save_and_clear=True, directory=db)
+words.run_collection(usehistory=True, retmax='50', save_and_clear=True, directory=db)
+
 # Save out the words data
 save_object(words, 'tutorial_words', directory=db)
 

@@ -1,0 +1,100 @@
+A framework based on deep neural networks to extract anatomy of mosquitoes from images.
+The motivation for citizens' involvement in life sciences research is predicted by age and gender.
+A Vision for Using Simulation & Virtual Coaching to Improve the Community Practice of Orthopedic Trauma Surgery.
+What does crowdsourced data tell us about bicycling injury? A case study in a mid-sized Canadian city.
+Examining Change in Self-Reported Gambling Measures Over Time as Related to Socially Desirable Responding Bias.
+Assessment of volunteered geographic information for vegetation mapping.
+Public awareness of and attitudes towards research biobanks in Latvia.
+A Comparative Analysis of Surgical Scar Cosmesis Based on Operative Approach for Radical Prostatectomy.
+New Coleoptera records from eastern Canada, with additions to the fauna of Manitoba, British Columbia, and Yukon Territory.
+Breed differences in dog cognition associated with brain-expressed genes and neurological functions.
+A citizen science approach estimating titanium dioxide released from personal care products.
+A review of subtidal kelp forests in Ireland: From first descriptions to new habitat monitoring techniques.
+Development of Brief Child Nutrition and Physical Activity Screening Questions for Electronic Health Record Use.
+Sharing for science: high-resolution trophic interactions revealed rapidly by social media.
+Community Assessment of the Predictability of Cancer Protein and Phosphoprotein Levels from Genomics and Transcriptomics.
+A Smartphone Crowdsensing System Enabling Environmental Crowdsourcing for Municipality Resource Allocation with LSTM Stochastic Prediction.
+Automated Bird Counting with Deep Learning for Regional Bird Distribution Mapping.
+Real-time traffic accidents post-impact prediction: Based on crowdsourcing data.
+Systematic Chemogenetic Library Assembly.
+Research Mentorship Crowdsourcing Contest: Toward Global Health Good.
+The Impact of Dermal Fillers on Perceived Personality Traits and Attractiveness.
+Outlining where humans live, the World Settlement Footprint 2015.
+Venous thromboembolism research priorities: A scientific statement from the American Heart Association and the International Society on Thrombosis and Haemostasis.
+How Do Older Adults Recruited Using MTurk Differ From Those in a National Probability Sample?
+Protistological science dissemination.
+The Roses Ocean and Human Health Chair: A New Way to Engage the Public in Oceans and Human Health Challenges.
+A citation study of earth science projects in citizen science.
+The association between sleep quality and attenuated psychotic symptoms.
+Outlier detection methods to improve the quality of citizen science data.
+Nine years of mosquito monitoring in Germany, 2011-2019, with an updated inventory of German culicid species.
+Swab and Send: a citizen science, antibiotic discovery project.
+Highlights in Medical Entomology, 2019: Familiar Foes and New Frontiers.
+Using citizen science to investigate the spatial-temporal distribution of floating marine litter in the waters around Taiwan.
+Using Bumble Bee Watch to investigate the accuracy and perception of bumble bee (Bombus spp.) identification by community scientists.
+Visual snow syndrome: is it normal or a disorder - and what to do with patients?
+Speeded reasoning moderates the inverse relationship between autistic traits and emotion recognition.
+Adapting Citizen Science to Improve Health in an Occupational Setting: Preliminary Results of a Qualitative Study.
+Dispersal patterns of an introduced wild bee, Megachile sculpturalis Smith, 1853 (Hymenoptera: Megachilidae) in European alpine countries.
+One Year Evaluation of Three Low-Cost PM2.5 Monitors.
+A benchmark dataset and case study for Chinese medical question intent classification.
+Actions, indicators, and outputs in urban biodiversity plans: A multinational analysis of city practice.
+Fathers of Children With Congenital Heart Disease: Sources of Stress and Opportunities for Intervention.
+Clinical Characteristics of 18 Patients with Psoriasis and Multiple Myeloma Identified Through Digital Health Crowdsourcing.
+SciBabel: a system for crowd-sourced validation of automatic translations of scientific texts.
+A National-Scale Assessment of Mercury Bioaccumulation in United States National Parks Using Dragonfly Larvae As Biosentinels through a Citizen-Science Framework.
+Flowers in Conservation Reserve Program (CRP) Pollinator Plantings and the Upper Midwest Agricultural Landscape Supporting Honey Bees.
+A citizen-science approach reveals long-term social network structure in an urban parrot, Cacatua galerita.
+Toward dynamic phenotypes and the scalable measurement of human behavior.
+Medical Student Utilization of a Novel Web-Based Platform (Psy-Q) for Question-Based Learning in Psychiatry: Pilot Questionnaire Study.
+Maximizing human effort for analyzing scientific images: A case study using digitized herbarium sheets.
+Envisioning the expertise of the future.
+Working with a new kind of team: harnessing the wisdom of the crowd in trial identification.
+Anxiety Mediates the Relationship between Psychotic-Like Experiences and Social Functioning in the General Population.
+Coherence of achromatic, primary and basic classes of colour categories.
+Data-derived metrics describing the behaviour of field-based citizen scientists provide insights for project design and modelling bias.
+Crowdsourcing to promote hepatitis C testing and linkage-to-care in China: a randomized controlled trial protocol.
+A Mixed Method Study to Inform the Implementation and Expansion of Pop-Up Parks for Economic, Behavioral, and Social Benefits.
+Translational data analytics in exposure science and environmental health: a citizen science approach with high school students.
+The Australian Roadkill Reporting Project-Applying Integrated Professional Research and Citizen Science to Monitor and Mitigate Roadkill in Australia.
+Research data management in health and biomedical citizen science: practices and prospects.
+Citizen science to further precision medicine: from vision to implementation.
+Emerging Wireless Sensor Networks and Internet of Things Technologies-Foundations of Smart Healthcare.
+Cost-Effectiveness Analysis, Psychosocial, and Utility Outcomes of Early Mandibular Distraction in Craniofacial Microsomia.
+Progression of COVID-19 From Urban to Rural Areas in the United States: A Spatiotemporal Analysis of Prevalence Rates.
+Promoting routine syphilis screening among men who have sex with men in China: study protocol for a randomised controlled trial of syphilis self-testing and lottery incentive.
+Factors Influencing Doctors' Participation in the Provision of Medical Services Through Crowdsourced Health Care Information Websites: Elaboration-Likelihood Perspective Study.
+Photopaper as a Tool for Community-Level Monitoring of Industrially Produced Hydrogen Sulfide and Corrosion.
+Digital epidemiological and citizen science methodology to capture prospective physical activity in free-living conditions: a SMART Platform study.
+Multi-Institutional Assessment and Crowdsourcing Evaluation of Deep Learning for Automated Classification of Breast Density.
+Visual Cultural Biases in Food Classification.
+The Science of the Future: Establishing a Citizen-Scientist Collaborative Agenda After Covid-19.
+Mapping fatal police violence across U.S. metropolitan areas: Overall rates and racial/ethnic inequities, 2013-2017.
+Environmental Quality Perceptions and Health: A Cross-Sectional Study of Citizens of Kaunas, Lithuania.
+Machine learning methods for brain network classification: Application to autism diagnosis using cortical morphological networks.
+Success factors for citizen science projects in water quality monitoring.
+A single dose of doxycycline after an Ixodes ricinus tick bite to prevent Lyme borreliosis: an open-label randomized controlled trial.
+Peak autumn leaf colouring along latitudinal and elevational gradients in Japan evaluated with online phenological data.
+Massive online data annotation, crowdsourcing to generate high quality sleep spindle annotations from EEG data.
+A crowdsourced set of curated structural variants for the human genome.
+Correction: Phenotate: crowdsourcing phenotype annotations as exercises in undergraduate classes.
+Crowdsourcing drug discovery for pandemics.
+High fat diet worsens Alzheimer's disease-related behavioral abnormalities and neuropathology in APP/PS1 mice, but not by synergistically decreasing cerebral blood flow.
+Crowdsourcing in Crisis: Rising to the Occasion.
+Working the crowd for forensic research: A review of contributor motivation and recruitment strategies used in crowdsourcing and crowdfunding for scientific research.
+A Mobile Game for Automatic Emotion-Labeling of Images.
+Mechanisms of offline motor learning at a microscale of seconds in large-scale crowdsourced data.
+Community Citizen Science for Risk Management of a Spontaneously Combusting Coal-Mine Waste Heap in Ban Chaung, Dawei District, Myanmar.
+Citizen Neuroscience: Brain-Computer Interface Researcher Perspectives on Do-It-Yourself Brain Research.
+Drivers of declines in common loon (Gavia immer) productivity in Ontario, Canada.
+Leveraging Crowdsourcing for HIV Testing Posters: A Visual Content Analysis and Cognitive Responses Among Chinese Men who Have Sex with Men.
+Factors associated with employment and expected work retention among persons with multiple sclerosis: findings of a cross-sectional citizen science study.
+Digital crowdsourcing: unleashing its power in rheumatology.
+Tick-borne encephalitis virus (TBEV) prevalence in field-collected ticks (Ixodes ricinus) and phylogenetic, structural and virulence analysis in a TBE high-risk endemic area in southwestern Germany.
+Analysis of monitoring data where butterflies fly year-round.
+Estimating the heritability of cognitive traits across dog breeds reveals highly heritable inhibitory control and communication factors.
+Can information from citizen science data be used to predict biodiversity in stormwater ponds?
+Enhancing big data in the social sciences with crowdsourcing: Data augmentation practices, techniques, and opportunities.
+Operationalising a One Health approach to reduce the infection and antimicrobial resistance (AMR) burden in under-5 year old urban slum dwellers: The Childhood Infections and Pollution (CHIP) Consortium.
+Neurobiology: Crowdsourcing CO2 to Conserve Brain Energy.
+Associations between taste preferences and chronic diseases: a population-based exploratory study in China.
