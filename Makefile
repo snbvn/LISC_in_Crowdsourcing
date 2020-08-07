@@ -12,21 +12,19 @@ output2.png : plots.py
 
 output3.png: wordanalysis.py
 	python3 wordanalysis.py
+	fold -w80 article.txt > articles.txt && rm -f article.txt
 
 articles.txt: wordanalysis.py
 	python3 wordanalysis.py
 
-matrix.txt: main.py
-	python3 main.py
+
 	
 .PHONY: cleanalmost_clean
 clean: almost_clean
 	rm report.pdf
-	rm output1.png
-	rm output2.png
-	rm output3.png
+	rm *.png
 	rm articles.txt
-	rm matrix.txt
+
 	
 
 almost_clean:

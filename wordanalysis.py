@@ -40,8 +40,7 @@ plt.savefig("output3.png")
 # Iterating through articles found from a particular search term
 #  The iteration returns a dictionary with all the article data
 
-with open("articles.txt", "w") as file:
+with open("article.txt", "w") as file:
     for art in words['crowdsourcing']:
-        if art['year']>2018:
-            file.write('%s\n' % art['title'])
-    
+        # if art['year']>2018:
+        file.write('%s\n' % art['title'])

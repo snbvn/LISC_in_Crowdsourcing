@@ -8,8 +8,6 @@ from pylab import savefig
 # Reload the counts object from the last tutorial
 counts = load_object('tutorial_counts', SCDB('lisc_db'))
 
-# Reload the counts object from the last tutorial
-counts = load_object('tutorial_counts', SCDB('lisc_db'))
 # Compute a normalization of the co-occurrence data
 counts.compute_score('normalize', dim='A')
 
